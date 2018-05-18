@@ -1,0 +1,132 @@
+[08-Dec-2017 07:57:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ishwark5/public_html/promousb.in/crm3692/createquotation.php on line 356
+[08-Dec-2017 08:06:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ishwark5/public_html/promousb.in/crm3692/createquotation.php on line 356
+[08-Dec-2017 08:06:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ishwark5/public_html/promousb.in/crm3692/createquotation.php on line 356
+[09-Dec-2017 02:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ishwark5/public_html/promousb.in/crm3692/addingpriority.php on line 21
+[12-Dec-2017 17:10:01 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 05:41:17 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 17:11:20 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 17:11:25 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 17:11:44 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 05:41:47 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[12-Dec-2017 05:41:51 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ordertable.php on line 270
+[20-Dec-2017 14:03:40 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/logout.php on line 11
+[20-Dec-2017 14:05:00 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/logout.php on line 11
+[22-Dec-2017 10:46:34 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/logout.php on line 26
+[22-Dec-2017 11:20:23 Asia/Kolkata] PHP Fatal error:  Call to a member function diff() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/logout.php on line 17
+[17-Feb-2018 05:58:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[17-Feb-2018 05:58:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/ajaxordercopying.php on line 7
+[12-Mar-2018 18:55:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ishwark5/public_html/promousb.in/crm3692/header.php on line 130
+[12-Mar-2018 18:55:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ishwark5/public_html/promousb.in/crm3692/header.php on line 130
+[31-Mar-2018 14:45:19 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 14:47:20 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 28
+[31-Mar-2018 14:53:20 Asia/Kolkata] PHP Fatal error:  Call to a member function diff() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 14:55:17 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 11
+[31-Mar-2018 14:56:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (Y-m-d H:i:s) at position 1 (-): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:8
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(8): DateTime->__construct('Y-m-d H:i:s')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 8
+[31-Mar-2018 14:58:57 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 11
+[31-Mar-2018 15:00:49 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 11
+[31-Mar-2018 15:03:21 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 11
+[31-Mar-2018 04:38:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$onlydate' (T_VARIABLE) in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 9
+[31-Mar-2018 15:08:31 Asia/Kolkata] PHP Fatal error:  Call to a member function diff() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 15:14:15 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 11
+[31-Mar-2018 15:15:44 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 15:21:45 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 31
+[31-Mar-2018 04:55:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$interval' (T_VARIABLE) in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 20
+[31-Mar-2018 15:25:47 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 21
+[31-Mar-2018 15:27:17 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:28:17 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 22
+[31-Mar-2018 15:29:25 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:38:09 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:38:54 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 22
+[31-Mar-2018 15:43:16 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 22
+[31-Mar-2018 15:43:41 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 21
+[31-Mar-2018 15:53:42 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:55:02 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:56:33 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:56:38 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 15:56:40 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 16:00:30 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 15
+[31-Mar-2018 16:03:11 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 16:05:59 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 16:06:26 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 16:09:06 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 32
+[31-Mar-2018 16:12:36 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 34
+[31-Mar-2018 16:14:58 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 32
+[31-Mar-2018 16:16:34 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 32
+[31-Mar-2018 16:17:05 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 32
+[31-Mar-2018 16:18:41 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 30
+[31-Mar-2018 17:08:36 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:17
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(17): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 17:10:28 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/logout.php on line 11
+[31-Mar-2018 17:13:49 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:17
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(17): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 17:15:20 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 17:19:04 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 18:33:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 18:33:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 18:35:22 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 18:36:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:18
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(18): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 18
+[31-Mar-2018 18:41:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (586) at position 0 (5): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:17
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(17): DateTime->__construct('586')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 17
+[31-Mar-2018 18:43:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (3) at position 0 (3): Unexpected character' in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php:19
+Stack trace:
+#0 /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php(19): DateTime->__construct('3')
+#1 {main}
+  thrown in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 19
+[02-Apr-2018 11:01:18 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 14
+[02-Apr-2018 00:38:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 15
+[02-Apr-2018 12:01:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 23
+[02-Apr-2018 12:02:52 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 24
+[02-Apr-2018 12:04:31 Asia/Kolkata] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 38
+[02-Apr-2018 12:22:46 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 23
+[02-Apr-2018 12:23:21 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 23
+[02-Apr-2018 12:31:22 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ishwark5/public_html/promousb.in/crm3692/newtestfile.php on line 23

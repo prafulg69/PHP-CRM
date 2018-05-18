@@ -1,0 +1,25 @@
+1. self drop
+2. sales person order update
+3. china requirement update to be done by krishnaji
+4. lead - city, state, address, gst
+5. single customer's multiple leads
+6. No packing in packaging
+7. lead source existing client
+8. today's follow up
+9. lead remark log
+10. new order automatic create a converted lead
+11. address field in inquiry
+12. budget to rate
+13. automatic revenue fill
+14. rani update notification to sales person
+15. different tracking page for priyanka
+16. sonali email quotation issue
+17. email or contact must in adding inquiry
+
+Adwords Landing Page User
+User requested for a Call from PromoUSB 
+Requested a Quick Quotation
+50% Advance and balance on the delivery
+
+ALTER TABLE itemtx
+ADD FOREIGN KEY (tripstopid) REFERENCES tripstop(tripstopid);
